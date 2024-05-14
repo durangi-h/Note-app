@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/note5"
+    android:background="@drawable/note7"
     tools:context=".AddNoteActivity">
 
 
@@ -29,14 +29,14 @@
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="216dp"
+        android:layout_marginTop="92dp"
         android:hint="Title"
         android:textColorHint="@color/grey"
         app:endIconMode="clear_text"
         app:errorEnabled="true"
         app:hintTextColor="@color/black"
         app:layout_constraintEnd_toStartOf="@id/guideline_end"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@id/guideline_start"
         app:layout_constraintTop_toTopOf="parent"
         app:startIconDrawable="@drawable/ic_baseline_title_24"
@@ -47,7 +47,6 @@
             android:layout_height="wrap_content"
             android:inputType="textCapWords|textShortMessage"
             android:maxLines="2" />
-
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -55,7 +54,7 @@
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="36dp"
+        android:layout_marginTop="24dp"
         android:hint="New Description"
         android:textColorHint="@color/grey"
         app:endIconMode="clear_text"
@@ -81,6 +80,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="24dp"
+        android:layout_marginRight="36dp"
+        android:layout_marginBottom="44dp"
         android:backgroundTint="@color/grey"
         android:contentDescription="Send"
         android:src="@drawable/ic_baseline_send_24"
