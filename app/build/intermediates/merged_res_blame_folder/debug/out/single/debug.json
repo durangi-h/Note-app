@@ -12,32 +12,32 @@
         "source": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\src\\main\\res\\drawable\\arrangementdeskelements.jpg"
     },
     {
-        "merged": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\build\\intermediates\\merged_res\\debug\\font_light.ttf.flat",
-        "source": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\src\\main\\res\\font\\light.ttf"
+        "merged": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\build\\intermediates\\merged_res\\debug\\font_light.ttf.flat",
+        "source": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\src\\main\\res\\font\\light.ttf"
+    },
+    {
         "merged": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_note14.jpg.flat",
         "source": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\src\\main\\res\\drawable\\note14.jpg"
     },
     {
-        "merged": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_note6.jpg.flat",
-        "source": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\src\\main\\res\\drawable\\note6.jpg"
-    },
-    {
         "merged": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_note6.jpg.flat",
+        "source": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\src\\main\\res\\drawable\\note6.jpg"
     },
     {
         "merged": "C:\\Users\\duran\\Downloads\\note-app-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_note.xml.flat",
